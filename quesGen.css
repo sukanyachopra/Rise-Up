@@ -131,14 +131,16 @@ header {
     background-position: center;
 }
 .parallax-bg-left{
-    left:0;
-    width:50%;
-    background-image: url('img/Shinybg\(1\).png')
+  left:0;
+  width:50%;
+  height:700px;
+  background-image: url('img/Shinybg\(1\).png')
 }
 .parallax-bg-right{
-    right: 0;
-    width: 50%;
-    background-image: url('img/Shinybg\(2\).png')
+  right: 0;
+  width: 50%;
+  height:770px;
+  background-image: url('img/Shinybg\(2\).png')
 }
 .box {
     display: flex;
