@@ -292,9 +292,9 @@ body{
       align-items: center;
       box-sizing: border-box;
       width: 700px;
-      height: 600px;
+      height: 700px;
       padding: 20px;
-      background: linear-gradient(135deg, #381932, #080006, #aaa6aa, #4f0255);
+      background: linear-gradient(135deg, #381932, #080006, #aaa6aa, #300119);
       border: 5px solid #ffffff;
       border-radius: 10px;
     
@@ -306,7 +306,17 @@ body{
     .feature:hover {
       transform: translateY(-10px) rotateY(180deg); /* add the rotateY transform on hover */
     }
+    
     .feature h1 {
+      background: linear-gradient(45deg, #610120, #050002, #cccccc);
+      background-size: 100% 100%;
+      border-radius: 50px;
+      border: 5px solid #f5f4f4;   
+      color: #fff;
+      font-weight: 700;
+      padding: 25px 50px;
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+      text-align: center;
       font: bold 2.5em "Fira Sans", serif;
       align-self: center;
       text-align: center;
@@ -336,7 +346,7 @@ body{
       font: italic 1.4em "Fira Sans", serif;
       color: #fcfcfc;
       font-weight: 400;
-      text-shadow: 0 0 2px #12010c, 0 0 2px #fdd1f3, 0 0 2px #000;
+      text-shadow: 0 0 2px #12010c, 0 0 2px #5f0723, 0 0 2px #45021a;
       margin-bottom: 15px;
       margin-top: 15px;
       /* Set the heading color to white */

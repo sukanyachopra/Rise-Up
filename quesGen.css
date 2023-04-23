@@ -133,12 +133,12 @@ header {
 .parallax-bg-left{
     left:0;
     width:50%;
-    background-image: url('img/audiorise\(1\).png')
+    background-image: url('img/Shinybg\(1\).png')
 }
 .parallax-bg-right{
     right: 0;
     width: 50%;
-    background-image: url('img/Audiorise\(2\).png')
+    background-image: url('img/Shinybg\(2\).png')
 }
 .box {
     display: flex;
